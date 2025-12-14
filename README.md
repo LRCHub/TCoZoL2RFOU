@@ -1,0 +1,69 @@
+# DAVE RODGERS – SPACE BOY
+
+> **歌詞登録ステータス：同期歌詞あり**
+
+```lrc
+[00:38.43] Every night you light me with your gasoline
+[00:44.50] Everytime I feel delight when you recall my name
+[01:08.50] 
+[00:49.82] So you can be my shining star tonite
+[00:53.03] I'm not alone with all your love
+[00:55.98] Fly across the sky
+[00:57.77] You will be mine
+[00:59.25] I can feel your dream with you babe
+[01:16.75] 
+[01:03.29] Gonna get you like a space boy
+[01:06.43] Wowowowow I'm ready Babe
+[01:09.37] Gonna get you I'm your space boy
+[01:12.46] Dive into your heart baby
+[01:15.45] Gonna get you like a space boy
+[01:18.73] Wowowowow I need you babe
+[01:21.85] Gonna get you I'm a space boy
+[01:24.94] Take a chance with me baby
+[01:37.94] 
+[01:40.40] Every night you drive me crazy like you know
+[01:46.66] Everyday I scream so loud you'll always be my queen
+[02:12.16] 
+[01:51.87] So you can be my shining star tonite
+[01:55.11] I'm not alone with all your love
+[01:57.88] Fly across the sky
+[01:59.65] You will be mine
+[02:01.61] I can feel your dream with you babe
+[02:19.11] 
+[02:05.13] Gonna get you like a space boy
+[02:08.11] Wowowowow I'm ready babe
+[02:11.47] Gonna get you I'm your space boy
+[02:14.59] Dive into your heart baby
+[02:17.50] Gonna get you like a space boy
+[02:20.59] Wowowowow I need you babe
+[02:23.62] Gonna get you I'm your space boy
+[02:26.83] Take a chance with me baby
+[02:39.83] 
+[02:42.38] Every night you light me with your gasoline
+[02:48.55] Everytime I feel delight when you recall my name
+[03:12.55] 
+[02:53.94] So you can be my shining star tonite
+[02:57.00] I'm not alone with all your love
+[02:59.99] Fly across the sky
+[03:01.62] You will be mine
+[03:03.78] I can feel your dream with you babe
+[03:21.28] 
+[03:07.15] Gonna get you like a space boy
+[03:10.22] Wowowowow I'm ready babe
+[03:13.31] Gonna get you I'm your space boy
+[03:16.32] Dive into your heart baby
+[03:19.69] Gonna get you like a space boy
+[03:22.47] Wowowowow I need you babe
+[03:25.75] Gonna get you I'm a space boy
+[03:28.44] Take a chance with me baby
+[03:41.44] 
+[03:56.61] Gonna get you
+[03:58.35] Space boy
+[04:02.70] Gonna get you
+[04:04.58] I'm a space boy
+[04:12.08] 
+[04:08.96] Gonna get you like a space boy
+[04:12.08] Wowowowow I need you babe
+[04:15.14] Gonna get you I'm a space boy
+[04:18.28] Take a chance with me baby
+```

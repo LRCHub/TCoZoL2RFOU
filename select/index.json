@@ -1,0 +1,136 @@
+{
+  "version": 1,
+  "base_track": "SPACE BOY",
+  "base_artist": "DAVE RODGERS",
+  "createdAt": "2025-12-14T05:00:25.905859Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "A Space Boy Dream",
+      "artist": "Belle and Sebastian",
+      "has_synced": true,
+      "path": "select/01_A_Space_Boy_Dream_Belle_and_Sebastian.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "A Space Boy Dream",
+      "artist": "Belle & Sebastian",
+      "has_synced": true,
+      "path": "select/02_A_Space_Boy_Dream_Belle_&_Sebastian.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "SPACE BOY",
+      "artist": "Dave Rodgers",
+      "has_synced": true,
+      "path": "select/03_SPACE_BOY_Dave_Rodgers.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Space Boy - Recorded Live On TV, June 30th, 1993",
+      "artist": "The Smashing Pumpkins",
+      "has_synced": false,
+      "path": "select/04_Space_Boy_-_Recorded_Live_On_TV,_June_30th,_1993_The_Smashing_Pumpkins.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Space Boy (New Generation remix)",
+      "artist": "Dave Rodgers",
+      "has_synced": true,
+      "path": "select/05_Space_Boy_(New_Generation_remix)_Dave_Rodgers.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Space Boy 2018",
+      "artist": "Dave Rodgers",
+      "has_synced": true,
+      "path": "select/06_Space_Boy_2018_Dave_Rodgers.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Space Boy - 2020",
+      "artist": "Dave Rodgers",
+      "has_synced": true,
+      "path": "select/07_Space_Boy_-_2020_Dave_Rodgers.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Space Boy",
+      "artist": "Rameses B feat. Feint & Veela",
+      "has_synced": true,
+      "path": "select/08_Space_Boy_Rameses_B_feat._Feint_&_Veela.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Space Boy",
+      "artist": "Rameses B",
+      "has_synced": true,
+      "path": "select/09_Space_Boy_Rameses_B.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Space Boy",
+      "artist": "Rameses B, Feint & Veela",
+      "has_synced": true,
+      "path": "select/10_Space_Boy_Rameses_B,_Feint_&_Veela.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Space Boy",
+      "artist": "Splender",
+      "has_synced": true,
+      "path": "select/11_Space_Boy_Splender.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Hello Space Boy",
+      "artist": "Behemoth",
+      "has_synced": false,
+      "path": "select/12_Hello_Space_Boy_Behemoth.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Space Boy (feat. Lucki)",
+      "artist": "Manny Laurenko & Lucki",
+      "has_synced": true,
+      "path": "select/13_Space_Boy_(feat._Lucki)_Manny_Laurenko_&_Lucki.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Space Boy",
+      "artist": "Manny Laurenko",
+      "has_synced": true,
+      "path": "select/14_Space_Boy_Manny_Laurenko.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Space Boy",
+      "artist": "Rameses B & Feint & Veela",
+      "has_synced": true,
+      "path": "select/15_Space_Boy_Rameses_B_&_Feint_&_Veela.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Space Boy",
+      "artist": "dave rodgers",
+      "has_synced": false,
+      "path": "select/pl_01_Space_Boy_dave_rodgers.txt"
+    }
+  ]
+}
